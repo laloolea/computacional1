@@ -1,0 +1,28 @@
+NOAA/NOS/CO-OPS
+Disclaimer: These data are based upon the latest information available as of the date of your request, and may differ from the published tide tables.
+Daily Tide Predictions
+StationName: Ensenada, Todos Santos Bay 
+State:  
+Stationid: TWC0403
+ReferencedToStationName: San Diego, San Diego Bay
+ReferencedToStationId: 9410170
+HeightOffsetLow: * 0.89
+HeightOffsetHigh: * 0.92
+TimeOffsetLow: -11
+TimeOffsetHigh: -19
+Prediction Type: Subordinate
+From: 20181023 02:32 - 20181024 21:40
+Units: Feet
+Time Zone: LST_LDT
+Datum: MLLW
+Interval Type: High/Low
+
+Date 		Day	Time		Pred	High/Low
+2018/10/23	Tue	02:32 AM	0.58	L
+2018/10/23	Tue	08:37 AM	5.59	H
+2018/10/23	Tue	03:04 PM	0.29	L
+2018/10/23	Tue	09:01 PM	4.87	H
+2018/10/24	Wed	03:00 AM	0.74	L
+2018/10/24	Wed	09:03 AM	5.82	H
+2018/10/24	Wed	03:40 PM	0.00	L
+2018/10/24	Wed	09:40 PM	4.71	H
